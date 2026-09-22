@@ -53,6 +53,7 @@
 - [Olympix](https://olympix.ai) - AI-powered smart contract security analysis.
 - [Snyk](https://snyk.io) - Code security with AI-powered vulnerability detection.
 - [Hera](https://github.com/AmuletResearch/hera) - AI agent for automated smart contract auditing.
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ## Wallet & Portfolio
 
